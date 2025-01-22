@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 | Linked Lists          | ![100%](https://progress-bar.xyz/100) |
 | Stacks & Queues       | ![100%](https://progress-bar.xyz/100) |
 | Binary Trees & BST    | ![100%](https://progress-bar.xyz/100) |
-| Graphs                | ![100%](https://progress-bar.xyz/20) |
-| Dynamic Programming   | ![60%](https://progress-bar.xyz/0) |
+| Graphs                | ![100%](https://progress-bar.xyz/100) |
+| Dynamic Programming   | ![60%](https://progress-bar.xyz/60) |
 | Tries                 | ![0%](https://progress-bar.xyz/0) |
