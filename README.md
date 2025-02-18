@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🖥️ **Software Developer | Problem Solver**
 - 💡 **Currently Focused on Full-Stack Development**
-- 🔥 **Completed DSA & Solved 200+ Problems on LeetCode**
+- 🔥 **Completed DSA & Solved 400+ Problems on LeetCode**
 - 🏆 **Built a Crypto Fraud Detection System**
 - 🎨 **Developed a Fully Responsive Cab Booking Website (ReactJS + Tailwind CSS)**
 - 🎓 **Completed Angela Yu's Web Dev Bootcamp (Udemy)**
@@ -17,6 +17,7 @@
 
 ### 📊 My GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NitinXD1&theme=tokyonight)
+
 ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinXD1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinXD1&layout=compact&theme=dracula)
 
@@ -45,7 +46,7 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NitinXD1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-kachera)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitinXD1)
 
 ---
