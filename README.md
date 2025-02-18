@@ -1,13 +1,13 @@
 ### Hi there, I'm Nitin! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&width=600&lines=Passionate+Developer+%7C+DSA+Enthusiast+%7C+Tech+Explorer;Love+Building+Scalable+and+Efficient+Solutions;Web+Development+%7C+Blockchain+%7C+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&width=600&lines=Passionate+Developer+%7C+Full-Stack+Engineer+%7C+Tech+Explorer;Love+Building+Scalable+and+Efficient+Solutions;Web+Development+%7C+Blockchain+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 - 🖥️ **Software Developer | Problem Solver**
-- 💡 **Exploring Graphs, DP & Tries in DSA**
-- 🔥 **Completed 200+ DSA Problems on LeetCode**
+- 💡 **Currently Focused on Full-Stack Development**
+- 🔥 **Completed DSA & Solved 200+ Problems on LeetCode**
 - 🏆 **Built a Crypto Fraud Detection System**
 - 🎨 **Developed a Fully Responsive Cab Booking Website (ReactJS + Tailwind CSS)**
 - 🎓 **Completed Angela Yu's Web Dev Bootcamp (Udemy)**
@@ -23,19 +23,24 @@
 ---
 
 ### 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
-- 📌 Advanced Graph Algorithms & Dynamic Programming
+- 📌 Advanced Full-Stack Development & Performance Optimization
 - 🔍 Blockchain & Cryptocurrency Fraud Detection
-- 🚀 Scalable Web Apps & Backend Performance Optimization
+- 🚀 Scalable Web Apps & Backend Architecture
 
 ---
 
@@ -46,6 +51,6 @@
 ---
 
 ### 🏆 My DSA Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/NitinXD1?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NitinXD?theme=dark&font=Karma&ext=heatmap)
 
 🔥 Keep Grinding & Keep Coding! 🚀
