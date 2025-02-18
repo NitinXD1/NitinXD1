@@ -1,39 +1,51 @@
-# Hello, I'm Nitin 👋
+### Hi there, I'm Nitin! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on web development, data science, and problem-solving.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&width=600&lines=Passionate+Developer+%7C+DSA+Enthusiast+%7C+Tech+Explorer;Love+Building+Scalable+and+Efficient+Solutions;Web+Development+%7C+Blockchain+%7C+Machine+Learning)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=NitinXD1&label=Profile%20views&color=0e75b6&style=flat" alt="NitinXD1" />
+---
 
-### 🔧 Technologies & Tools:
-- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindxCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- **Other Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS-Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🚀 About Me
+- 🖥️ **Software Developer | Problem Solver**
+- 💡 **Exploring Graphs, DP & Tries in DSA**
+- 🔥 **Completed 200+ DSA Problems on LeetCode**
+- 🏆 **Built a Crypto Fraud Detection System**
+- 🎨 **Developed a Fully Responsive Cab Booking Website (ReactJS + Tailwind CSS)**
+- 🎓 **Completed Angela Yu's Web Dev Bootcamp (Udemy)**
+- 💼 **Worked on Loan Management System Overview**
 
-### 🌟 Featured Projects:
+---
 
-- **[Cab Booking Website](https://github.com/NitinXD1/cab-booking-website)**:  
-  A fully responsive cab booking website built using React, Tailwind CSS, and JavaScript.
-  
-- **[HTML Portfolio](https://github.com/NitinXD1/html-portfolio)**:  
-  A personal portfolio website showcasing my skills and projects, built with HTML and CSS.
+### 📊 My GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=NitinXD1&theme=tokyonight)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinXD1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinXD1&layout=compact&theme=dracula)
 
-### 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=NitinXD1&theme=radical&hide_border=true)](https://git.io/streak-stats)
+---
 
-### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitinXD1&show_icons=true&theme=radical&hide_border=true)
+### 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinXD1&layout=compact&theme=radical&hide_border=true)
+---
 
+### 🌱 Currently Learning
+- 📌 Advanced Graph Algorithms & Dynamic Programming
+- 🔍 Blockchain & Cryptocurrency Fraud Detection
+- 🚀 Scalable Web Apps & Backend Performance Optimization
 
-### 📊 DSA Progress:
+---
 
-| Topic                | Completion |
-|----------------------|------------|
-| Arrays & Strings      | ![100%](https://progress-bar.xyz/100) |
-| Linked Lists          | ![100%](https://progress-bar.xyz/100) |
-| Stacks & Queues       | ![100%](https://progress-bar.xyz/100) |
-| Binary Trees & BST    | ![100%](https://progress-bar.xyz/100) |
-| Graphs                | ![100%](https://progress-bar.xyz/100) |
-| Dynamic Programming   | ![60%](https://progress-bar.xyz/60) |
-| Tries                 | ![0%](https://progress-bar.xyz/0) |
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NitinXD1)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitinXD1)
+
+---
+
+### 🏆 My DSA Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/NitinXD1?theme=dark&font=Karma&ext=heatmap)
+
+🔥 Keep Grinding & Keep Coding! 🚀
