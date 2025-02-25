@@ -8,7 +8,6 @@
 - 🖥️ **Software Developer | Problem Solver**
 - 💡 **Currently Focused on Full-Stack Development**
 - 🔥 **Completed DSA & Solved 400+ Problems on LeetCode**
-- 🏆 **Built a Crypto Fraud Detection System**
 - 🎨 **Developed a Fully Responsive Cab Booking Website (ReactJS + Tailwind CSS)**
 - 🎓 **Completed Angela Yu's Web Dev Bootcamp (Udemy)**
 - 💼 **Worked on Loan Management System Overview**
